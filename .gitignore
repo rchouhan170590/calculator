@@ -1,0 +1,4 @@
+build/*
+dist/*
+pycalculator.egg-info/*
+kailakuletar.egg-info/*
